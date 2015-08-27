@@ -1,0 +1,614 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"pro",
+				"prototype"
+			],
+			[
+				"filter",
+				"filterPoints"
+			],
+			[
+				"font",
+				"font-family"
+			],
+			[
+				"obser",
+				"observable"
+			],
+			[
+				"getC",
+				"getCurrentCat"
+			],
+			[
+				"cats",
+				"catsList"
+			],
+			[
+				"cat",
+				"cats"
+			],
+			[
+				"getEleme",
+				"getElementsByClassName"
+			],
+			[
+				"win",
+				"winCounter"
+			],
+			[
+				"Los",
+				"loseCounter"
+			],
+			[
+				"get",
+				"getGridRef"
+			],
+			[
+				"player",
+				"playerLoc"
+			],
+			[
+				"starti",
+				"startingLoc"
+			],
+			[
+				"projec",
+				"project-images"
+			],
+			[
+				"project",
+				"project"
+			],
+			[
+				"HT",
+				"HTMLfullProjects"
+			],
+			[
+				"HTMLpro",
+				"HTMLprojectTitle"
+			],
+			[
+				"HTMLsc",
+				"HTMLschoolStart"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "index.html",
+			"settings":
+			{
+				"buffer_size": 2102,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "asc",
+		"selected_items":
+		[
+			[
+				"asc",
+				"ASCII Decorator: Default Font"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"install p",
+				"Package Control: Advanced Install Package"
+			],
+			[
+				"package",
+				"Package Control: Install Package"
+			],
+			[
+				"beau",
+				"Beautify::Beautify File"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"comment",
+				"Toggle Block Comment"
+			],
+			[
+				"comme",
+				"DocBlockr: Decorate line comment"
+			],
+			[
+				"mini",
+				"Minify::Default File Settings"
+			],
+			[
+				"min",
+				"Minify::User File Settings"
+			],
+			[
+				"insall p",
+				"Package Control: Advanced Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"form",
+				"CodeFormatter: Format as Javascript Syntax"
+			],
+			[
+				"docc",
+				"DocBlockr: Reparse comment block"
+			],
+			[
+				"docco",
+				"DocBlockr: Decorate line comment"
+			],
+			[
+				"format",
+				"CodeFormatter: Format as Javascript Syntax"
+			],
+			[
+				"package sett",
+				"Preferences: Package Control Settings – User"
+			],
+			[
+				"forma",
+				"CodeFormatter: Format Code"
+			],
+			[
+				"codefo",
+				"CodeFormatter: Format as Javascript Syntax"
+			],
+			[
+				"codefor",
+				"CodeFormatter: Format Code"
+			],
+			[
+				"doc",
+				"Package Control: Discover Packages"
+			],
+			[
+				"doco",
+				"Set Syntax: Rd (R Documentation)"
+			],
+			[
+				"ascii",
+				"ASCII Decorator: Generate Font Test"
+			],
+			[
+				"",
+				"ASCII Decorator: Default Font"
+			],
+			[
+				"settin",
+				"Preferences: Settings - User"
+			],
+			[
+				"jsh",
+				"JSHint: Set Linting Preferences"
+			],
+			[
+				"js",
+				"JSHint: Set Keyboard Shortcuts"
+			],
+			[
+				"colo",
+				"Color Picker"
+			],
+			[
+				"color",
+				"Color Picker"
+			],
+			[
+				"install pa",
+				"Package Control: Install Package"
+			],
+			[
+				"install ",
+				"Package Control: Install Package"
+			],
+			[
+				"package in",
+				"Package Control: Install Package"
+			],
+			[
+				"discov",
+				"Package Control: Discover Packages"
+			],
+			[
+				"enable",
+				"Package Control: Enable Package"
+			]
+		],
+		"width": 575.0
+	},
+	"console":
+	{
+		"height": 125.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = 'eb2297e1a458f27d836c04bb0cbaf282' + 'd0e7a3098092775ccb37ca9d6b2e4b7d'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/Alistair/Documents/git/udacity/web-dev/6-feedreader/index.html",
+		"/Users/Alistair/Documents/git/udacity/web-dev/lessons/testing/ud549/spec/SpecHelper.js",
+		"/Users/Alistair/Documents/git/udacity/web-dev/lessons/testing/ud549/src/Contact.js",
+		"/Users/Alistair/Documents/git/udacity/web-dev/lessons/testing/ud549/src/AddressBook.js",
+		"/Users/Alistair/Documents/git/udacity/web-dev/lessons/testing/ud549/spec/AddressBookSpec.js",
+		"/Users/Alistair/Documents/git/udacity/web-dev/lessons/testing/ud549/SpecRunner.html",
+		"/Users/Alistair/Documents/git/udacity/web-dev/lessons/testing/ud549/spec/PlayerSpec.js",
+		"/Users/Alistair/Documents/git/udacity/web-dev/lessons/testing/ud549/src/Player.js",
+		"/Users/Alistair/Documents/git/udacity/web-dev/lessons/testing/ud549/lib/jasmine-2.2.0/jasmine.css",
+		"/Users/Alistair/Documents/git/udacity/web-dev/5-neighborhood-map/README.MD",
+		"/Users/Alistair/Documents/git/udacity/web-dev/5-neighborhood-map/www/js/model.js",
+		"/Users/Alistair/Documents/git/udacity/web-dev/5-neighborhood-map/www/js/view.js",
+		"/Users/Alistair/Documents/git/udacity/web-dev/5-neighborhood-map/www/js/app.js",
+		"/Users/Alistair/Documents/git/udacity/web-dev/5-neighborhood-map/www/js/lib/ko.utils.js",
+		"/Users/Alistair/Documents/git/udacity/web-dev/5-neighborhood-map/www/css/style.css",
+		"/Users/Alistair/Documents/git/udacity/web-dev/5-neighborhood-map/www/css/mob-style.css",
+		"/Users/Alistair/Documents/git/udacity/web-dev/5-neighborhood-map/www/css/dt-style.css",
+		"/Users/Alistair/Documents/git/udacity/web-dev/5-neighborhood-map/www/js/viewModel.js",
+		"/Users/Alistair/Documents/git/udacity/web-dev/5-neighborhood-map/www/index.html",
+		"/Users/Alistair/Documents/git/udacity/web-dev/5-neighborhood-map/www/js/lib/knockout-3.3.0.js",
+		"/E/Documents/Udacity/Front-end-web-dev/lessons/ud989-todo-app/bower.json",
+		"/E/Documents/Udacity/Front-end-web-dev/lessons/ud989-todo-app/js/app.js",
+		"/E/Documents/Udacity/Front-end-web-dev/lessons/ud989-todo-app/bower_components/todomvc-common/base.css",
+		"/E/Documents/Udacity/Front-end-web-dev/lessons/ud989-todo-app/bower_components/todomvc-common/base.js",
+		"/E/Documents/Udacity/Front-end-web-dev/lessons/ud989-todo-app/js/collections/todos.js",
+		"/E/Documents/Udacity/Front-end-web-dev/lessons/cat-clicker/www/index.html",
+		"/E/Documents/Udacity/Front-end-web-dev/lessons/cat-clicker/www/css/style.css",
+		"/E/Documents/Udacity/Front-end-web-dev/lessons/cat-clicker-v2/.gitignore",
+		"/E/Documents/Udacity/Front-end-web-dev/lessons/cat-clicker-v2/.gitattributes",
+		"/E/Documents/Udacity/Front-end-web-dev/projects/1-portfolio/README.md",
+		"/E/Documents/Udacity/Front-end-web-dev/lessons/ud989-school-attendance/README.md",
+		"/E/Documents/Udacity/Front-end-web-dev/projects/3-frogger/www/js/resources.js",
+		"/E/Documents/Udacity/Front-end-web-dev/lessons/ud989-retain/js/retain.js",
+		"/E/Documents/Udacity/Front-end-web-dev/lessons/ud989-retain/index.html",
+		"/E/Documents/Udacity/Front-end-web-dev/lessons/cat-clicker/cat-clicker.sublime-project",
+		"/E/Documents/Udacity/Front-end-web-dev/lessons/cat-clicker/www/js/cat_clicker.js",
+		"/E/Documents/Udacity/Front-end-web-dev/lessons/mobile-portfolio/frontend-nanodegree-mobile-portfolio/www/js/perfmatters.js",
+		"/E/Documents/Udacity/Front-end-web-dev/projects/1-portfolio/www/index.html",
+		"/E/Documents/Udacity/Front-end-web-dev/lessons/mobile-portfolio/frontend-nanodegree-mobile-portfolio/www/views/js/main.js",
+		"/E/Documents/Udacity/Front-end-web-dev/lessons/ajax_lesson/minicourse-ajax-project/index.html",
+		"/E/Documents/Udacity/Front-end-web-dev/lessons/mobile-portfolio/frontend-nanodegree-mobile-portfolio/www/index.html",
+		"/E/Documents/Udacity/Front-end-web-dev/lessons/mobile-portfolio/frontend-nanodegree-mobile-portfolio/www/index.pretty.html",
+		"/E/Documents/Udacity/Front-end-web-dev/lessons/ajax_lesson/minicourse-ajax-project/js/script.js",
+		"/E/Documents/Udacity/Front-end-web-dev/lessons/mobile-portfolio/frontend-nanodegree-mobile-portfolio/README.md",
+		"/E/Documents/Udacity/Front-end-web-dev/lessons/mobile-portfolio/frontend-nanodegree-mobile-portfolio/www/views/pizza.html",
+		"/E/Documents/Udacity/Front-end-web-dev/lessons/mobile-portfolio/frontend-nanodegree-mobile-portfolio/www/views/pizza.pretty.html",
+		"/E/Documents/Udacity/Front-end-web-dev/lessons/mobile-portfolio/frontend-nanodegree-mobile-portfolio/www/views/pizza.pretty.min.html",
+		"/E/Documents/Udacity/Front-end-web-dev/lessons/mobile-portfolio/frontend-nanodegree-mobile-portfolio/www/views/js/main.min.js",
+		"/E/Documents/Udacity/Front-end-web-dev/lessons/mobile-portfolio/frontend-nanodegree-mobile-portfolio/www/js/vanilla.js",
+		"/E/Documents/Udacity/Front-end-web-dev/lessons/mobile-portfolio/frontend-nanodegree-mobile-portfolio/Gruntfile.js",
+		"/E/Documents/Udacity/Front-end-web-dev/lessons/mobile-portfolio/frontend-nanodegree-mobile-portfolio/js/perfmatters.js",
+		"/E/Documents/Udacity/Front-end-web-dev/lessons/recalc-styles/box-recalc-style-slow.html",
+		"/E/Documents/Udacity/Front-end-web-dev/lessons/mobile-portfolio/frontend-nanodegree-mobile-portfolio/views/pizza.pretty.html",
+		"/E/Documents/Udacity/Front-end-web-dev/lessons/mobile-portfolio/frontend-nanodegree-mobile-portfolio/views/js/main.js",
+		"/E/Documents/Udacity/Front-end-web-dev/lessons/mobile-portfolio/frontend-nanodegree-mobile-portfolio/views/js/main.min.js",
+		"/E/Documents/Udacity/Front-end-web-dev/lessons/mobile-portfolio/frontend-nanodegree-mobile-portfolio/index.html",
+		"/E/Documents/Udacity/Front-end-web-dev/lessons/mobile-portfolio/frontend-nanodegree-mobile-portfolio/index.pretty.html",
+		"/E/Documents/Udacity/Front-end-web-dev/lessons/mobile-portfolio/frontend-nanodegree-mobile-portfolio/views/pizza.min.html",
+		"/E/Documents/Udacity/Front-end-web-dev/lessons/mobile-portfolio/frontend-nanodegree-mobile-portfolio/views/pizza.html",
+		"/E/Documents/Udacity/Front-end-web-dev/lessons/mobile-portfolio/frontend-nanodegree-mobile-portfolio/views/js/Worker.js",
+		"/E/Documents/Udacity/Front-end-web-dev/lessons/mobile-portfolio/frontend-nanodegree-mobile-portfolio/index.beau.html",
+		"/E/Documents/Udacity/Front-end-web-dev/lessons/mobile-portfolio/frontend-nanodegree-mobile-portfolio/views/css/style.css",
+		"/E/Documents/Udacity/Front-end-web-dev/lessons/mobile-portfolio/frontend-nanodegree-mobile-portfolio/views/css/style.min.css",
+		"/E/Documents/Udacity/Front-end-web-dev/lessons/mobile-portfolio/frontend-nanodegree-mobile-portfolio/css/style.css",
+		"/E/Documents/Udacity/Front-end-web-dev/lessons/mobile-portfolio/frontend-nanodegree-mobile-portfolio/views/js/recalcPosWorker.js",
+		"/E/Documents/Udacity/Front-end-web-dev/lessons/mobile-portfolio/frontend-nanodegree-mobile-portfolio/views/js/worker.js",
+		"/E/Documents/Udacity/Front-end-web-dev/lessons/mobile-portfolio/frontend-nanodegree-mobile-portfolio/npm-debug.log",
+		"/E/Documents/Udacity/Front-end-web-dev/lessons/mobile-portfolio/frontend-nanodegree-mobile-portfolio/css/mobile.min.css",
+		"/E/Documents/Udacity/Front-end-web-dev/lessons/mobile-portfolio/frontend-nanodegree-mobile-portfolio/css/style.min.css",
+		"/C/Users/Al/AppData/Roaming/Sublime Text 2/Packages/Minify/Minify.sublime-settings",
+		"/C/Users/Al/AppData/Roaming/Sublime Text 2/Packages/User/Minify.sublime-settings",
+		"/E/Documents/Udacity/Front-end-web-dev/lessons/mobile-portfolio/frontend-nanodegree-mobile-portfolio/views/css/bootstrap-grid.css",
+		"/E/Documents/Udacity/Front-end-web-dev/lessons/mobile-portfolio/frontend-nanodegree-mobile-portfolio/css/mobile.css",
+		"/E/Documents/Udacity/Front-end-web-dev/lessons/mobile-portfolio/frontend-nanodegree-mobile-portfolio/css/print.css",
+		"/C/Users/Al/Desktop/temp/hosts",
+		"/C/Windows/System32/drivers/etc/hosts",
+		"/E/Documents/Udacity/Front-end-web-dev/lessons/git/web-workers-demo/README.md",
+		"/E/Documents/Udacity/Front-end-web-dev/lessons/git/web-workers-demo/scripts/time-animator.js",
+		"/E/Documents/Udacity/Front-end-web-dev/lessons/git/web-workers-demo/scripts/imageManips.js",
+		"/E/Documents/Udacity/Front-end-web-dev/lessons/git/web-workers-demo/index.html",
+		"/E/Documents/Udacity/Front-end-web-dev/lessons/git/web-workers-demo/scripts/worker.js",
+		"/E/Documents/Udacity/Front-end-web-dev/lessons/git/web-workers-demo/scripts/image-app.js",
+		"/E/Documents/Udacity/Front-end-web-dev/projects/3-frogger/www/js/engine.js",
+		"/E/Documents/Udacity/Front-end-web-dev/projects/3-frogger/www/index.html",
+		"/E/Documents/Udacity/Front-end-web-dev/projects/3-frogger/www/README.md",
+		"/C/Users/Al/AppData/Roaming/Sublime Text 2/Packages/User/Package Control.sublime-settings",
+		"/E/Documents/Udacity/Front-end-web-dev/projects/3-frogger/www/js/app.js",
+		"/C/Users/Al/AppData/Roaming/Sublime Text 2/Packages/JSHint Gutter/.jshintrc",
+		"/C/Users/Al/AppData/Roaming/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+		"/C/Users/Al/AppData/Roaming/Sublime Text 2/Packages/JSHint Gutter/Default (Windows).sublime-keymap",
+		"/E/Documents/Udacity/Front-end-web-dev/projects/3-frogger/3-frogger/www/js/engine.js",
+		"/E/Documents/Udacity/Front-end-web-dev/projects/3-frogger/3-frogger/www/js/resources.js",
+		"/E/Documents/Udacity/Front-end-web-dev/projects/3-frogger/3-frogger/www/js/app.js",
+		"/E/Documents/Udacity/Front-end-web-dev/projects/3-frogger/3-frogger/www/index.html",
+		"/E/Documents/Udacity/Front-end-web-dev/projects/3-frogger/www/3-frogger/www/js/resources.js",
+		"/E/Documents/Udacity/Front-end-web-dev/projects/3-frogger/www/3-frogger/www/index.html",
+		"/D/Game_Apps/BReWErS.nfo",
+		"/E/Documents/Udacity/Front-end-web-dev/projects/3-frogger/www/3-frogger/index.html",
+		"/D/Game_Apps/Borderlands_1.42/h4x0r.nfo",
+		"/E/Documents/Udacity/Front-end-web-dev/projects/2-resume/www/index.html",
+		"/E/Documents/Udacity/Front-end-web-dev/projects/2-resume/www/js/helper.js",
+		"/E/Documents/Udacity/Front-end-web-dev/projects/2-resume/www/js/resumeBuilder.js",
+		"/E/Documents/Udacity/Front-end-web-dev/projects/2-resume/www/js/functions.js",
+		"/E/Documents/Udacity/Front-end-web-dev/projects/2-resume/www/css/style.css",
+		"/E/Dropbox/Dropbox/Udacity/Front-end-web-dev/projects/2-resume/www/index.html",
+		"/E/Dropbox/Dropbox/Udacity/Front-end-web-dev/projects/2-resume/www/css/style.css",
+		"/E/Dropbox/Dropbox/Udacity/Front-end-web-dev/projects/2-resume/www/js/helper.js",
+		"/E/Dropbox/Dropbox/Udacity/Front-end-web-dev/projects/2-resume/www/js/resumeBuilder.js",
+		"/E/Dropbox/Dropbox/Udacity/Front-end-web-dev/projects/2-resume/www/js/functions.js",
+		"/E/Dropbox/Dropbox/Udacity/Front-end-web-dev/projects/2-resume/www/Gruntfile.js",
+		"/E/Dropbox/Dropbox/Udacity/Front-end-web-dev/projects/2-resume/www/package.json",
+		"/E/Dropbox/Dropbox/Udacity/git/frontend-nanodegree-resume/js/helper.js",
+		"/G/Udacity/Front-end web dev/projects/1-portfolio/www/css/main.css",
+		"/G/Udacity/Front-end web dev/projects/1-portfolio/www/Gruntfile.js",
+		"/G/Udacity/Front-end web dev/projects/1-portfolio/www/css/bootstrap.css",
+		"/G/Udacity/Front-end web dev/projects/1-portfolio/www/index.html",
+		"/E/Dropbox/Dropbox/Udacity/Front-end web dev/projects/1-portfolio/www/css/main.css",
+		"/E/Dropbox/Dropbox/Udacity/Front-end web dev/projects/1-portfolio/www/index.html",
+		"/E/Dropbox/Dropbox/Udacity/Front-end web dev/projects/1-portfolio/www/Gruntfile.js",
+		"/E/Dropbox/Dropbox/Udacity/Front-end web dev/projects/1-portfolio/index.html",
+		"/E/Dropbox/Dropbox/Udacity/Front-end web dev/projects/1-portfolio/README.md",
+		"/E/Dropbox/Dropbox/Udacity/Front-end web dev/projects/1-portfolio/Gruntfile.js",
+		"/E/Dropbox/Dropbox/Udacity/Front-end web dev/projects/1-portfolio/css/main.css",
+		"/E/Dropbox/Dropbox/Udacity/Front-end web dev/projects/1-portfolio/Gruntfile - original.js",
+		"/E/Dropbox/Dropbox/Udacity/Front-end web dev/projects/0-hello-world/index.html",
+		"/E/Dropbox/Dropbox/Udacity/Front-end web dev/projects/0-hello-world/css/style.css",
+		"/E/Dropbox/Dropbox/Udacity/Front-end web dev/projects/1-portfolio/Project-Part-1-Start/package.json",
+		"/E/Dropbox/Dropbox/Udacity/Front-end web dev/lessons/box-model/css/style.css"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"var ",
+			");   	",
+			"}\n",
+			"destroy",
+			"change",
+			"completed",
+			"addclass('com",
+			"addclass",
+			"save",
+			"toggleCompleted",
+			"showCat",
+			"'",
+			"pizzasContainer",
+			"pizzacontainer6",
+			"cons",
+			"mover",
+			".mover",
+			"generat",
+			"resiz",
+			"resizePizzas",
+			"colwi",
+			"maxMaxSpeed",
+			"maxMinSpeed",
+			"minMaxSpeed",
+			"minMinSpeed",
+			"playerPadding",
+			"startingLocs",
+			"maxLocs",
+			"bottomRowExtra",
+			"rowHeight",
+			"colWidth",
+			"\"",
+			"console.",
+			"score",
+			"header",
+			"images_src/",
+			"%',",
+			"section",
+			"'",
+			":",
+			"{",
+			"images/",
+			"600med",
+			"smiley",
+			"600med.jpg",
+			".jpg",
+			"src=\"images_src"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"this.",
+			"\"",
+			"MAX_MAX_SPEED",
+			"MAX_MIN_SPEED",
+			"MIN_MAX_SPEED",
+			"MIN_MIN_SPEED",
+			"PLAYER_PADDING",
+			"STARTING_LOCS",
+			"MAX_LOCS",
+			"BOTTOM_ROW_EXTRA",
+			"ROW_HEIGHT",
+			"COL_WIDTH",
+			"'",
+			"image-source/project-images/",
+			"%', ",
+			"%' ,",
+			": ",
+			" {",
+			"img/",
+			"1200_large",
+			"-600med.jpg",
+			"600med.jpg",
+			"src=\"images"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2102,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.unsaved_changes":
+	{
+		"height": 100.0
+	},
+	"pinned_build_system": "",
+	"project": "6-feedreader.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 220.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
