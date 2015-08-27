@@ -36,7 +36,7 @@ $(function() {
                 if (!allFeeds[i].url) {
                     hasUrl = false;
                 }
-            };
+            }
             expect(hasUrl).not.toBe(false);
         });
 
@@ -48,7 +48,7 @@ $(function() {
                 if (!allFeeds[i].name) {
                     hasName = false;
                 }
-            };
+            }
             expect(hasName).not.toBe(false);
         });
     });
@@ -71,17 +71,10 @@ $(function() {
 
         // Test that clicking on the menu hides it/shows it
         it('shows and hides the menu as needed', function() {
-            if ($('body').hasClass('menu-hidden')) {
-                $('.menu-icon-link').trigger('click');
-                expect($('body').hasClass('menu-hidden')).toBe(false);
-                $('.menu-icon-link').trigger('click');
-                expect($('body').hasClass('menu-hidden')).toBe(true);
-            } else {
-                $('.menu-icon-link').trigger('click');
-                expect($('body').hasClass('menu-hidden')).toBe(true);
-                $('.menu-icon-link').trigger('click');
-                expect($('body').hasClass('menu-hidden')).toBe(false);
-            }
+            $('.menu-icon-link').trigger('click');
+            expect($('body').hasClass('menu-hidden')).toBe(true);
+            $('.menu-icon-link').trigger('click');
+            expect($('body').hasClass('menu-hidden')).toBe(false);
             // Doing this another time so that it closes automatically
             $('.menu-icon-link').trigger('click');
         });
@@ -101,8 +94,7 @@ $(function() {
 
         // Check to see if initial feeds have been loaded
         it('loads initial feed entries', function(done) {
-            expect($('.feed').children('.entry-link')).toBeDefined();
-            expect($('.entry-link').children('.entry')).toBeDefined();
+            expect($('.feed').children('.entry-link').children()).toContain('article.entry');
             done();
         });
 
@@ -121,7 +113,6 @@ $(function() {
 
         // Clicking on a feed loads the data test
         it('clicking on a feed loads it and the feed data changes', function() {
-            spyEvent = spyOnEvent($('.feed-list li'), 'click');
             expect($('.feed').children('.entry-link')).toBeDefined();
             expect($('.entry-link').children('.entry')).toBeDefined();
             expect($('.entry h2').html()).not.toBe(originalFeedTitle);

@@ -83,7 +83,15 @@
 			"file": "index.html",
 			"settings":
 			{
-				"buffer_size": 2102,
+				"buffer_size": 1963,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "README.md",
+			"settings":
+			{
+				"buffer_size": 897,
 				"line_ending": "Unix"
 			}
 		}
@@ -255,6 +263,10 @@
 		"side_bar_visible": false,
 		"status_bar_visible": false
 	},
+	"expanded_folders":
+	[
+		"/Users/Alistair/Documents/git/udacity/web-dev/6-feedreader/6-feedreader"
+	],
 	"file_history":
 	[
 		"/Users/Alistair/Documents/git/udacity/web-dev/6-feedreader/index.html",
@@ -489,7 +501,7 @@
 	"groups":
 	[
 		{
-			"selected": 0,
+			"selected": 1,
 			"sheets":
 			[
 				{
@@ -498,7 +510,37 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 2102,
+						"buffer_size": 1963,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								780,
+								780
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "README.md",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 897,
 						"regions":
 						{
 						},
@@ -511,9 +553,7 @@
 						],
 						"settings":
 						{
-							"syntax": "Packages/HTML/HTML.tmLanguage",
-							"tab_size": 4,
-							"translate_tabs_to_spaces": true
+							"syntax": "Packages/Markdown/Markdown.tmLanguage"
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
